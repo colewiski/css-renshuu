@@ -77,8 +77,7 @@ a:hover {
     background-color: #495579;
     color: #ffffff;
     position: relative;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding: 50px 0 20px;
 }
 
 
@@ -134,6 +133,12 @@ a:hover {
     margin: 40px auto 60px;
 }
 
+.copyright {
+    color: #FFFBEB;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
 .btn {
     background: #6775a1;
     background-image: -webkit-linear-gradient(top, #6775a1, #251749);
@@ -159,10 +164,4 @@ a:hover {
     background-image: -o-linear-gradient(top, #3b1747, #ffe066);
     background-image: linear-gradient(to bottom, #3b1747, #ffe066);
     text-decoration: none;
-}
-
-.copyright {
-    color: #FFFBEB;
-    font: 0.75rem;
-    padding: 20px 0;
 }
